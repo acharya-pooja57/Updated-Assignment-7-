@@ -1,0 +1,1 @@
+The first two rows that contain RNAseq data show the gene expression as it shows how much DNA gets transcribed to RNA. Whereas the next two rows that contain the ATACseq data show the open chromatin region in between which the gene expression is carried out which is also proved by the last two rows that show the peak value in the open chromatin region.
